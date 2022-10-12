@@ -1,5 +1,5 @@
 
-<h1>👋 Hey! Nice to see you.</h1>
+<h1>👋 Hi! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm y-agatsuma, Softwear Engineer from 🇯🇵</p>
 
 ### Connect with me on:
@@ -16,14 +16,17 @@
   <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
 
-### Stats:
-<a href="https://github.com/y-agatsuma/y-agatsuma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-agatsuma&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
-</a>
+### Summary:
+<p align="left">
+  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-agatsuma&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
+  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=y-agatsuma&show_icons=true&line_height=27&count_private=true&theme=radical" alt="y-agatsuma's GitHub Stats" />
+</p>
 
-<a href="https://github.com/y-agatsuma/y-agatsuma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=y-agatsuma&show_icons=true&line_height=27&count_private=true&theme=radical" alt="y-agatsuma's GitHub Stats" />
-</a>
+[![](https://raw.githubusercontent.com/y-agatsuma/y-agatsuma/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/y-agatsuma/y-agatsuma/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/y-agatsuma/y-agatsuma/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/y-agatsuma/y-agatsuma/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/y-agatsuma/y-agatsuma/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 ### Views:
 <img src="https://profile-counter.glitch.me/y-agatsuma/count.svg" />
