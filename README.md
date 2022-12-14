@@ -18,7 +18,6 @@
 
 ### Summary:
 <p align="left">
-  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-agatsuma&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
   <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=y-agatsuma&show_icons=true&line_height=27&count_private=true&theme=radical" alt="y-agatsuma's GitHub Stats" />
 </p>
 
